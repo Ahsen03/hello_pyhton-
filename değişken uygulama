@@ -1,0 +1,14 @@
+musteriAd=input("isminiz: ")
+musterisoyad=input("Soyadınız: ")
+musteriTelNo=input("Telefon Numaranız: ")
+
+urunAd=input("Aldığınız ürün: ")
+urunFiyat=input("Fiyatı: ")
+
+print("ürünü alan kişi: ")
+print(musteriAd)
+print(musterisoyad)
+print(musteriTelNo)
+print(".......aldığı ürünler:........")
+print(urunAd+urunFiyat)
+

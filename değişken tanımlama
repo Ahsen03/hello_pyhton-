@@ -1,0 +1,10 @@
+urunAfiyat=2000
+urunBfiyat=3000
+kdvOrani=0.18
+
+#2000*0.18.....3000*0.18
+print("1.urunun fiyati:")
+print(urunAfiyat+urunAfiyat*kdvOrani)
+
+print("2.urunun fiyati:")
+print(urunBfiyat+urunBfiyat*kdvOrani)

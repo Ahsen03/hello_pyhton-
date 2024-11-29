@@ -1,0 +1,3 @@
+mesaj=input("isminiz: ")
+
+print("giriş başarili,hoş geldiniz "+mesaj)
